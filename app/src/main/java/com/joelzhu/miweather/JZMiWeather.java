@@ -16,6 +16,11 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 作者：JoelZhu
+ * 时间：2017年08月30日 13:02
+ * 作用：自定义日历控件
+ */
 public class JZMiWeather extends View {
     // 画笔对象
     private Paint paint;
